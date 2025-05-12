@@ -16,6 +16,5 @@
   </pre>
 </details>
 
-![build](https://github.com/space3dim/mopig/workflows/build/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/space3dim/space3dim)
 ![pv](https://pageview.vercel.app/?github_user=space3dim)
